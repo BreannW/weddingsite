@@ -14,7 +14,7 @@ const HeadImageCombo = () => {
       <StaticImage
         className={headerImage}
         src="../images/grandcanyon.jpeg"
-        alt="breann and steve"
+        alt="breann an d steve"
         height="500px"
       />
       <div className={dateLocalContainer}>
