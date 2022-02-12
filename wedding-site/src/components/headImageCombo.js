@@ -13,7 +13,7 @@ const HeadImageCombo = () => {
     <div className={headerImageContainer}>
       <StaticImage
         className={headerImage}
-        src="..\images\grandcanyon.jpeg"
+        src="...\images\grandcanyon.jpeg"
         alt="breann and steve"
         height="500px"
       />
