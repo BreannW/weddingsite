@@ -1,0 +1,16 @@
+.base {
+  margin: auto;
+  font-family: "Noto Sans";
+  color: #102e4a;
+  background-color: antiquewhite;
+}
+
+.base h1{
+    font-family: "Noto Serif Display";
+    font-size: 3rem;
+}
+
+.base p{
+    font-size: 1rem;
+    line-height: 2rem;
+}

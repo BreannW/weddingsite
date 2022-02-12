@@ -1,0 +1,43 @@
+.headerImageContainer{
+  position: relative;
+
+}
+.headerImage{
+  position: relative;
+  display: flex;
+  margin: auto;
+  
+}
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+
+main{
+  max-width:60%;
+  margin: auto;
+}
+
+.dateLocalContainer{
+  position: absolute;
+  color: #fff;
+
+  font-family: "Noto Serif Display";
+  display: block;
+  top: 15vw;
+width: 100%;
+text-align: center;
+text-shadow: 2px 2px 28px #000000;
+
+}
+
+.date{
+  font-size: 16vw;
+ }
+
+.locale{
+text-transform: uppercase;
+font-size: 2vw;
+ }
